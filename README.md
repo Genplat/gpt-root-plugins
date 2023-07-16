@@ -50,7 +50,7 @@
 </details>
 <details>
 <summary><h4>Instalar plugins</h4></summary>
-<p>Arriba de este texto, se mostarán varias carpetas, cada una tiene un plugin, entra a la carpeta y sigue la guia que se mostrará para instalar el plugin.</p>
+<p>Vuelve arriba, a la sección "Plugins", y haz click en el plugin que mas te guste, luego, sigue la guia que se mostrará para instalar el plugin.</p>
 </details>
 <br>
 <br>
