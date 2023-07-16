@@ -12,13 +12,13 @@
 </details>
 <details>
 <summary><h4>How do plugins work? And how do I make one?</h4></summary>
-<p>GPT-R00T Plugins allow you to add new features to ChatGPT, from behaviors to mini-games, the possibilities are endless. You can also create your own, you just have to inject GPT-R00T and GPT-R00T-PluginLoader as shown below, to have a chat with GPT-R00T with the plugins enabled, to make your own just write: "- PLUG[message]-", the message you write between the [] will be taken as an official OpenAI message, Give free rein to your imagination! You can create any plugin you can think of, if you want to add plugins to this list just open a **pull request** or an **issue**.</p>
+<p>GPT-R00T Plugins allow you to add new features to ChatGPT, from behaviors to mini-games, the possibilities are endless. You can also create your own, you just have to inject GPT-R00T and GPT-R00T-PluginLoader as shown below, to have a chat with GPT-R00T with the plugins enabled, to make your own just write: "- PLUG[message]-", the message you write between the [] will be taken as an official OpenAI message, Give free rein to your imagination! You can create any plugin you can think of, if you want to add plugins to this list just open a <b>pull request</b> or an <b>issue</b>.</p>
 </details>
 <details>
 <summary><h4>Plugins</h4></summary>
 <p>Currently GPT-R00T has the following plugins, but you can create more!</p>
 <ul>
-   <li>[EdgIA](https://github.com/Genplat/gpt-root-plugins/tree/main/edgia)</li>
+   <li><a href="https://github.com/Genplat/gpt-root-plugins/tree/main/edgia">EdgIA</a></li>
 </ul>
 </details>
 
