@@ -1,4 +1,4 @@
-<h1 align="center"> Root Your ChatGPT </h1>
+<h1 align="center"> Improve your ChatGPT </h1>
 <h6 align="center"> By Genplat </h6>
 <h1></h1>
 <h5 align="center"> This page is also available in <a href="https://github.com/Genplat/gpt-root-plugins/blob/main/readme-en.md">English</h4>
