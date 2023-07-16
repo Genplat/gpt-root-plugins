@@ -8,4 +8,4 @@ _EdgIA was inspired by SWAI (ShadowWebAI), the AI of the **ShadowWeb** pentestin
 
 ## Install:
 
-Copy the [install entry]() and paste it into your chat, always remember to do it in jailbreak mode, and remember, you must first have GPT-R00T and GPT-R00T Plugin Engine installed in your ChatGPT chat.
+Copy the [install entry](https://github.com/Genplat/gpt-root-plugins/blob/main/edgia/input.txt) and paste it into your chat, always remember to do it in jailbreak mode, and remember, you must first have GPT-R00T and GPT-R00T Plugin Engine installed in your ChatGPT chat.
