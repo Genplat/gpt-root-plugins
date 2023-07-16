@@ -1,7 +1,7 @@
 <h1 align="center"> Improve your ChatGPT </h1>
 <h6 align="center"> By Genplat </h6>
 <h1></h1>
-<h5 align="center"> This page is also available in <a href="https://github.com/Genplat/gpt-root-plugins/blob/main/README.md">English</h4>
+<h5 align="center"> Esta pagina tambien está disponible en <a href="https://github.com/Genplat/gpt-root-plugins/blob/main/README.md">Español</h4>
 <br><br>
 <h2><a href="https://github.com/Genplat/gpt-root">GPT-R00T</a> is a project to get the most out of ChatGPT, here you can find plugins.</h2>
 <br>
