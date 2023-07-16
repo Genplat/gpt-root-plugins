@@ -3,7 +3,7 @@
 <h1></h1>
 <h5 align="center"> This page is also available in <a href="https://github.com/Genplat/gpt-root-plugins/blob/main/readme-en.md">English</h4>
 <br><br>
-<h2>[GPT-R00T](https://github.com/Genplat/gpt-root) es un proyecto para sacarle el maximo partido a ChatGPT, aquí podrás encontrar plugins.</h2>
+<h2><a href="https://github.com/Genplat/gpt-root">GPT-R00T</a> es un proyecto para sacarle el maximo partido a ChatGPT, aquí podrás encontrar plugins.</h2>
 <br>
 <br>
 <details>
