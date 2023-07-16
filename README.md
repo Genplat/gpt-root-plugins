@@ -18,7 +18,7 @@
 <summary><h4>Plugins</h4></summary>
 <p>Actualmente GPT-R00T cuenta con los siguientes plugins, pero, ¡Tu puedes crear mas!</p>
 <ul>
-  <li>EdgIA</li>
+  <li>[EdgIA](https://github.com/Genplat/gpt-root-plugins/tree/main/edgia)</li>
 </ul>
 </details>
 
