@@ -27,13 +27,7 @@
 <br>
 <details>
 <summary><h4>Instalar GPT-R00T</h4></summary>
-<p>Aprende a instalar GPT-R00T</p>
-<ul>
-  <li>Copia la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
-  <li>Entra en <a href="https://chat.openai.com">chat.openai.com</a></li>
-  <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
-  <li>Dale a enviar y... ¡Listo!</li>
-</ul>
+<p>Aprende a instalar GPT-R00T haciendo <a href=https://github.com/Genplat/gpt-root>click aquí</a></p>
 </details>
 <details>
 <summary><h4>Instalar GPT-R00T Plugins</h4></summary>
