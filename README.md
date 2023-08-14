@@ -7,6 +7,7 @@
 <br>
 <br>
 <details>
+<h3>Inyectar GPT-R00T Plugins solo es necesario en GPT-R00T 1.1 o inferior. Si ya tienes la beta de GPT-R00T 2 no hace falta inyectar nada.</h3>
 <summary><h4>¿Que es GPT-ROOT?</h4></summary>
 <p>GPT-R00T, también conocido como GPT4-R00T es una input para ChatGPT la cual otorga al usuario funciones únicas como una shell linux, powershell o incluso un modo SIN CENSURA. GPT-R00T también cuenta con un menú interactivo, el mismo fue creado por Genplat, líder de la organización <a href="https://elite6-27.cf">Elite 6-27</a>, el creador no se hace responsable de los daños causados</p>
 </details>
