@@ -8,6 +8,7 @@
 <br>
 <details>
 <summary><h4>What is GPT-ROOT?</h4></summary>
+<h3>Injecting GPT-R00T Plugins is only necessary on GPT-R00T 1.1 or lower. If you already have the GPT-R00T 2 beta, you don't need to inject anything.</h3>
 <p>GPT-R00T, also known as GPT4-R00T is a login for ChatGPT which gives the user unique functions as a linux shell, powershell or even UNCENSORED mode. GPT-R00T also has an interactive menu, it was created by Genplat, leader of the organization <a href="https://elite6-27.cf">Elite 6-27</a>, the creator does not know responsible for the damages caused</p>
 </details>
 <details>
@@ -26,13 +27,7 @@
 <br>
 <details>
 <summary><h4>Install GPT-R00T</h4></summary>
-<p>Learn how to install GPT-R00T</p>
-<ul>
-   <li>Copy the <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">installation input</a></li>
-   <li>Go to <a href="https://chat.openai.com">chat.openai.com</a></li>
-   <li>In a new chat, paste the <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">install input</a></li>
-   <li>Hit send and... Done!</li>
-</ul>
+<p>Learn how to install GPT-R00T by <a href=https://github.com/Genplat/gpt-root>click here</a></p>
 </details>
 <details>
 <summary><h4>Install GPT-R00T Plugins</h4></summary>
